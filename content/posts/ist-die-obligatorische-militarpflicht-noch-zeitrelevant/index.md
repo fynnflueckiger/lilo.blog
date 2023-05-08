@@ -12,7 +12,12 @@ pinned = false
 
 Die Rekrutenschule gibt es seit dem Jahr 1848, seit die Schweiz ihre Armee neu organisiert hatte. Sie ist ein wichtiger Bestandteil der Schweizer Wehrpflicht und gilt für alle männlichen Schweizer Bürger zwischen dem 18. und dem 34. Lebensjahr. Für Frauen ist die Rekrutenschule und die allgemeine Militärpflicht freiwillig. Die Dauer der Rekrutenschule beträgt je nach Gattung und Funktion unterschiedlich lange. Normalerweise aber zwischen 18 und 21 Wochen. Während der Dienstzeit lernen die Soldaten und Soldatinnen die Grundlagen des militärischen Handwerks und Handelns. Dazu gehören zum Beispiel der Umgang mit Waffen, Ausbildung in Infanterie, in der Luftwaffe, im Panzerwesen sowie in Erster Hilfe. Dazu kommt körperliche Fitness, eine Ausbildung in Militärischer Führung, Teamwork, Disziplin, etc.
 
-{{<**Der Begriff Militärpflicht beinhaltet sowohl die Rekrutenschule (RS) als auch den Zivildienst.**>}}
+{{<box>}}
+
+Der Begriff Militärpflicht beinhaltet sowohl die Rekrutenschule (RS) als auch den Zivildienst.
+{{</box>}}
+
+
 
 ![](whatsapp-bild-2023-05-08-um-06.45.24.jpg)
 
