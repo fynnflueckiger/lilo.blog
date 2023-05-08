@@ -19,7 +19,7 @@ Der Begriff Militärpflicht beinhaltet sowohl die Rekrutenschule (RS) als auch d
 
 *Janis Bill, Rekrut*
 
-**Der Dienst an der Gesellschaft mithilfe des Zivildienstes**
+**Der Dienst an der Gesellschaft durch den Zivildienstes**
 
 Eine andere Möglichkeit, welche immer häufiger gewählt wird, ist der Zivildienst. Der Zivildienst ist mehr ein Dienst an der Gesellschaft und ermöglicht es denjenigen, die aus Gewissensgründen, Überzeugungen oder aus anderen Gründen den Militärdienst verweigern, eine alternative Möglichkeit, ihre Dienstzeit abzuarbeiten. <<Ich mache lieber Zivildienst, wo ich dann etwas mache, was der Gesellschaft etwas bringt>> sagt Jan Baggiolini (Zivildienstler). Der Zivildienst dauert in der Regel aber eineinhalb Mal so lange wie die RS und kann somit bis zu 180 Tagen, was 6 Monaten entspricht, andauern. Während der Dienstzeit leisten die Zivildienstleistenden ihren Dienst in öffentlichen Einrichtungen oder auch in gemeinnützigen Organisationen. Dazu gehören Schulen, Altersheime, Krankenhäuser, etc. Es ist aber auch möglich, in der Landwirtschaft oder im Umweltschutz seinen Dienst zu verrichten.
 
