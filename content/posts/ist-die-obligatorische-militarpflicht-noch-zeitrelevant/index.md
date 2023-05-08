@@ -3,6 +3,7 @@ title = "Ist die obligatorische Militärpflicht noch zeitrelevant?"
 date = "2023-05-08"
 draft = false
 pinned = false
+image = "whatsapp-bild-2023-05-08-um-06.45.24.jpg"
 +++
 5,24 Milliarden Franken betrugen die Militärausgaben der Schweizer Armee allein für das Jahr 2021. Im Vorjahr waren es 6 Milliarden mehr. Immer wieder gibt es Diskussionen, ob es richtig sei, so viel Geld für das Militär auszugeben oder überhaupt noch eines zu haben. Die Meinungen gehen dabei oft auseinander, und dies besonders bei den unterschiedlichen Altersgruppen. Häufig wird bei diesen Gesprächen auch die Obligatorische Militärpflicht mit eingebunden, welche in dieser Reportage nun auch das Hauptthema ist. Die Militärpflicht wird häufig kritisiert, und auch ich hatte bereits mit anderen Personen darüber geredet und diskutiert. Bei der Militärpflicht gibt es verschiedene Möglichkeiten, diese auszuüben. Der größte Prozentanteil ist dabei die Rekrutenschule (RS).
 
