@@ -4,7 +4,6 @@ date = "2023-05-08"
 draft = false
 pinned = false
 +++
-Infobox
 **Der Begriff Militärpflicht beinhaltet sowohl die Rekrutenschule (RS) als auch den Zivildienst.**
 
 5,24 Milliarden Franken betrugen die Militärausgaben der Schweizer Armee allein für das Jahr 2021. Im Vorjahr waren es 6 Milliarden mehr. Immer wieder gibt es Diskussionen, ob es richtig sei, so viel Geld für das Militär auszugeben oder überhaupt noch eines zu haben. Die Meinungen gehen dabei oft auseinander, und dies besonders bei den unterschiedlichen Altersgruppen. Häufig wird bei diesen Gesprächen auch die Obligatorische Militärpflicht mit eingebunden, welche in dieser Reportage nun auch das Hauptthema ist. Die Militärpflicht wird häufig kritisiert, und auch ich hatte bereits mit anderen Personen darüber geredet und diskutiert. Bei der Militärpflicht gibt es verschiedene Möglichkeiten, diese auszuüben. Der größte Prozentanteil ist dabei die Rekrutenschule (RS).
@@ -12,6 +11,8 @@ Infobox
 #### **Die Geschichte und Funktion der Rekrutenschule**
 
 Die Rekrutenschule gibt es seit dem Jahr 1848, seit die Schweiz ihre Armee neu organisiert hatte. Sie ist ein wichtiger Bestandteil der Schweizer Wehrpflicht und gilt für alle männlichen Schweizer Bürger zwischen dem 18. und dem 34. Lebensjahr. Für Frauen ist die Rekrutenschule und die allgemeine Militärpflicht freiwillig. Die Dauer der Rekrutenschule beträgt je nach Gattung und Funktion unterschiedlich lange. Normalerweise aber zwischen 18 und 21 Wochen. Während der Dienstzeit lernen die Soldaten und Soldatinnen die Grundlagen des militärischen Handwerks und Handelns. Dazu gehören zum Beispiel der Umgang mit Waffen, Ausbildung in Infanterie, in der Luftwaffe, im Panzerwesen sowie in Erster Hilfe. Dazu kommt körperliche Fitness, eine Ausbildung in Militärischer Führung, Teamwork, Disziplin, etc.
+
+{{<**Der Begriff Militärpflicht beinhaltet sowohl die Rekrutenschule (RS) als auch den Zivildienst.**>}}
 
 ![](whatsapp-bild-2023-05-08-um-06.45.24.jpg)
 
@@ -49,13 +50,10 @@ Ein sehr gutes Beispiel dafür, wie die Armee in der Schweiz die Blaulichtorgani
 
 ![](whatsapp-bild-2023-05-08-um-08.51.13.jpg)
 
-\
 *Bondo, Jahr 2017									                                                	                               ©Der Bundesrat*	
 
-#### 
+
 **Die Notwendigkeit der Rekrutenschule**
-
-
 Der gesamte Ablauf und das schnelle Handeln erfordern ausreichend verfügbare Einsatzkräfte. Dies ist nur möglich, wenn wir eine Wehrpflicht haben, da es nicht genug Freiwillige gibt. Jan, Janis und ich sind zu diesem Schluss gekommen und sind alle der Meinung, dass die Wehrpflicht nach wie vor ihre Berechtigung hat.
 
 #### **Meine persönliche Meinung**
